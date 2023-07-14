@@ -1,0 +1,8 @@
+hopsworks
+joblib
+plotly
+matplotlib
+faker
+folium
+streamlit_folium
+xgboost
