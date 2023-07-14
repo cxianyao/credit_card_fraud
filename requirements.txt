@@ -6,3 +6,4 @@ faker
 folium
 streamlit_folium
 xgboost
+scikit-learn
